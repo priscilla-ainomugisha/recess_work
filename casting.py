@@ -1,0 +1,5 @@
+h=int(20)
+y=int(30000000000)
+a=int("8")
+print(h)
+print(type(a))
